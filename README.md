@@ -1,6 +1,8 @@
 # EscapeGame
 
 ## Releases:
+
+  [Last Release](https://drive.google.com/file/d/19DyLHPIpSg4EzOcOIMMh2cmJoOQZ_ZK7/view?usp=share_link)
   
   - EscapeGame 1.2.2 Beta : https://drive.google.com/file/d/19DyLHPIpSg4EzOcOIMMh2cmJoOQZ_ZK7/view?usp=share_link
   - EscapeGame 1.2.1 Beta : https://drive.google.com/file/d/1IyqCTn8zcOu5F2-oxDj4zr4R9S2i1lQl/view?usp=sharing
