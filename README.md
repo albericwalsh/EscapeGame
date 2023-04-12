@@ -1,6 +1,10 @@
 # EscapeGame
 
-## Releases:
+## Report a bug :
+  
+  [Bug Report Service](https://docs.google.com/document/d/1SzFK4Y5maB4DjjrzXQyYhwubOFBxDUObAEng_RxG5cI/edit)
+
+## Releases :
 
   [Download Last Release](https://drive.google.com/file/d/19DyLHPIpSg4EzOcOIMMh2cmJoOQZ_ZK7/view?usp=share_link)
   
